@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :v: My name is Linda @lindajk
+- :beer: I am based in Munich
+- 👻 Unfortunately I can't swim at all
+- :neckbeard: Therefore I'm learning to code to become a new fish
+- 🐠 I am happy to meet fellow fishes
+
 <!--
 **lindajk/lindajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
